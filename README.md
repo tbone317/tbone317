@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @tbone317
+### Welcome Friend
+
+- 👋 My name is Travis
 - 👀 I’m interested in Node.js Blender Python SQL and riding my motorcycle
-- 🌱 I’m currently learning Blender and Node
-- 💞️ I’m looking to collaborate on something but I do not know what yet.
+- 🌱 I’m currently learning web design via udemy
+- 💞️ I’m looking at fivrr to get a web design. I am not a professional web developer
 - 📫 How to reach me travis.j.dunbar@gmail.com
 
 <!---
