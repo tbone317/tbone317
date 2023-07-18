@@ -2,8 +2,8 @@
 
 - 👋 My name is Travis
 - 👀 I’m interested in Node.js Blender Python SQL and riding my motorcycle
-- 🌱 I’m currently learning web design via udemy
-- 💞️ I’m looking at fivrr to get a web design. I am not a professional web developer
+- 🌱 I’m currently playing with machine learning
+- 💞️ Homesteading as a hobby interest
 - 📫 How to reach me travis.j.dunbar@gmail.com
 
 <!---
