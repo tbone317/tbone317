@@ -1,7 +1,7 @@
 ### Welcome Friend
 
 - 👋 My name is Travis
-- 👀 I’m interested in Databricks Python SQL
+- 👀 I’m interested in Azure Databricks & Synapse 
 - 🌱 I’m currently playing with machine learning
 - 💞️ Homesteading as a hobby interest
 - 📫 How to reach me travis.j.dunbar@gmail.com
