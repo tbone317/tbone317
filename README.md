@@ -1,8 +1,8 @@
 ### Welcome Friend
 
 - 👋 My name is Travis
-- 👀 I’m interested in Azure Databricks & Fabric
-- 🌱 I’m currently playing with python
+- 👀 I’m interested in the good, the true, the beautiful
+- 🌱 I’m currently playing with running LLM locally
 - 💞️ Homesteading as a hobby interest
 - 📫 How to reach me travis.j.dunbar@gmail.com
 
